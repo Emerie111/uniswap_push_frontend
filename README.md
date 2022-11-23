@@ -24,15 +24,17 @@ Step 2 :**The next step is to connect your wallet to the uinswap dapp using conn
 
 Step 3 : **To view notifications, the user must select the Notifications tab in the DApp. There you will find the Inbox and Uniswap Channel tabs. The Inbox tab contains notifications received and the Uniswap Channel tab contains channels related to Uniswap.**
 <img src="assets/page3.png" width="1500" height="500">
-<img src="assets/page4.png" width="1500" height="500">
 <br>
 Step 4:
 
 **To receive notifications, users must first subscribe to the channel. To subscribe to a channel, you must select the Uniswap Channels tab. Here you can find channels related to Uniswap. To subscribe, click the GASLESS OPT-IN button and sign the message. There are no transaction fees for subscribing.**
 
-<img src="assets/page5.png" width="500" height="1000">
+<img src="assets/page4.png" width="1500" height="500">
+
 
 Step 5: **After subscribing to the channel users can view the notifications from the subscribed channel in the inbox tab.**
+
+<img src="assets/page5.png" width="1500" height="500">
 
 These are the steps required for a frontend user to receive notifications in a DApp.
 
