@@ -14,7 +14,7 @@ Users can acces Push protocol integrated website using this link: [Uinswap](http
 
 Step 1 : **Access the website using the above link provided and you can see tabs like**
 
-<img src="assets/front_end.jpg" width="1500" height="500">
+<img src="assets/page1.png" width="1500" height="500">
 <br>
 
 Step 2 :**The next step is to connect your wallet to the uinswap dapp using connect button and select the wallet you have.**
