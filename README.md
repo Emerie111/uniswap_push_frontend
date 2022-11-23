@@ -10,7 +10,7 @@
 
 ## For Frontend Users
 
-Users can acces Push protocol integrated website using this link: [Uinswap](https://uniswap1.netlify.app/#/swap)
+Users can acces Push protocol integrated website using this link: [Uniswap Push Fronted](https://uniswap1.netlify.app/#/swap)
 
 Step 1 : **Access the website using the above link provided and you can see tabs like**
 
